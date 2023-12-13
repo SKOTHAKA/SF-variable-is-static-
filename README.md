@@ -1,1 +1,0 @@
-# SF-variable-is-static-
